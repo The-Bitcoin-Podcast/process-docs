@@ -13,5 +13,5 @@ How to do things on the Network
 - [Github](./github.md)
 - [Slack](./slack.md)
 
-## Your Local Environment
+## Your Local System
 - [Set your computer up for recording](./computer-setup.md)
