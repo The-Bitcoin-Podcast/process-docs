@@ -61,6 +61,7 @@ Once an episode has been drafted, you can do the following things
 
 - Add items to the [trello card](./trello)
   - click on `EMBED LINK` and add the appropriate code to the [trello card](./trello).
+    - we use the `Standard` option for episode embeds.
     - this is used for episode pages on the [wordpress](./wordpress.md) site.
   - click on `COPY DIRECT MP3 DOWNLOAD LINK` and add it to the [trello card](./trello).
     - thisis used for both streaming and downloading on the slide pages on the [wordpress](./wordperss.md) site.
